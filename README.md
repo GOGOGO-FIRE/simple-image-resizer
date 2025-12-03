@@ -12,5 +12,5 @@ A lightweight Python CLI tool to resize images quickly without losing too much q
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/USERNAME-LU/simple-image-resizer.git](https://github.com/USERNAME-LU/simple-image-resizer.git)
+   git clone [https://github.com/GOGOGO-FIRE/simple-image-resizer/tree/main](https://github.com/GOGOGO-FIRE/simple-image-resizer/tree/maint)
    cd simple-image-resizer
